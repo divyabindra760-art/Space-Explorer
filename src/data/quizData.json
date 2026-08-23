@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Which planet in our solar system has the most moons officially recognized by the IAU?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "correctIndex": 1,
+    "explanation": "Saturn leads our solar system with 146 officially recognized moons, surpassing Jupiter's 95 moons as of recent discoveries."
+  },
+  {
+    "id": 2,
+    "question": "What is the average orbital speed of the International Space Station (ISS)?",
+    "options": ["12,500 km/h", "27,600 km/h", "45,000 km/h", "8,200 km/h"],
+    "correctIndex": 1,
+    "explanation": "The ISS travels at approximately 27,600 km/h (17,500 mph), orbiting the Earth roughly once every 90 minutes."
+  },
+  {
+    "id": 3,
+    "question": "Which star is currently the Northern Pole Star (North Star)?",
+    "options": ["Sirius", "Betelgeuse", "Polaris", "Vega"],
+    "correctIndex": 2,
+    "explanation": "Polaris (located in the constellation Ursa Minor) aligns almost directly with Earth's northern rotational axis."
+  },
+  {
+    "id": 4,
+    "question": "What gives Mars its characteristic red appearance?",
+    "options": ["Copper sulfide deposits", "Iron oxide (rust) on its surface", "Active volcanic lava flows", "Atmospheric methane reflection"],
+    "correctIndex": 1,
+    "explanation": "Mars appears reddish because its surface regolith is rich in iron oxide minerals (commonly known as rust)."
+  },
+  {
+    "id": 5,
+    "question": "What is the hottest planet in our solar system?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "correctIndex": 1,
+    "explanation": "Even though Mercury is closer to the Sun, Venus is hotter (avg 464°C) due to a runaway greenhouse effect trapped by its dense carbon dioxide atmosphere."
+  },
+  {
+    "id": 6,
+    "question": "What is the Great Red Spot on Jupiter?",
+    "options": ["A massive crater from an ancient impact", "A persistent anticyclonic storm larger than Earth", "A solar flare reflection", "A subterranean iron lake"],
+    "correctIndex": 1,
+    "explanation": "The Great Red Spot is a giant storm system in Jupiter's southern hemisphere that has been continuously observed for over 300 years."
+  },
+  {
+    "id": 7,
+    "question": "Which constellation contains the famous 'Summer Triangle' star Deneb?",
+    "options": ["Cygnus", "Orion", "Taurus", "Leo"],
+    "correctIndex": 0,
+    "explanation": "Deneb is the brightest star in the constellation Cygnus (The Swan) and forms the Summer Triangle alongside Vega and Altair."
+  },
+  {
+    "id": 8,
+    "question": "Approximately how long does it take for light from the Sun to reach Earth?",
+    "options": ["8 seconds", "8 minutes and 20 seconds", "1 hour", "8 days"],
+    "correctIndex": 1,
+    "explanation": "Sunlight traveling through space at 300,000 km/s takes approximately 8 minutes and 20 seconds to bridge the 149.6 million km distance to Earth."
+  },
+  {
+    "id": 9,
+    "question": "What is the boundary surrounding a black hole beyond which nothing, not even light, can escape?",
+    "options": ["Photon Sphere", "Event Horizon", "Singularity Rim", "Accretion Disk"],
+    "correctIndex": 1,
+    "explanation": "The Event Horizon is the threshold where the gravitational pull of a black hole becomes so strong that escape velocity exceeds the speed of light."
+  },
+  {
+    "id": 10,
+    "question": "Which NASA space telescope was launched in December 2021 as the successor to Hubble?",
+    "options": ["Spitzer Space Telescope", "James Webb Space Telescope (JWST)", "Kepler Observatory", "Chandra X-ray Observatory"],
+    "correctIndex": 1,
+    "explanation": "The James Webb Space Telescope (JWST) was launched on December 25, 2021, capturing unprecedented infrared views of the deep universe."
+  }
+]
